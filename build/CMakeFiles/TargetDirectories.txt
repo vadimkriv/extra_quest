@@ -1,0 +1,3 @@
+/home/vadim/NeverLooseDeadline/build/CMakeFiles/NeverLooseDeadline.dir
+/home/vadim/NeverLooseDeadline/build/CMakeFiles/edit_cache.dir
+/home/vadim/NeverLooseDeadline/build/CMakeFiles/rebuild_cache.dir
